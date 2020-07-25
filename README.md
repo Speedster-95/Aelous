@@ -4,14 +4,14 @@ Climate change has the potential to impact every human, every industry and every
 ### How can Technology help ? 
 Today's turbines have sensors and precision controllers, which constantly tweak the blade position to optimize the use of the wind energy and provide information to wind farm operators. Intelligent controllers expose more of the blade to capture the most wind. If gusts grow dangerously strong, the blades can also be rotated to minimize their exposure and the risk of damage.
 ### How does Aelous serves the cause ?
-Improvements in weather forecasting are also increasing the output from wind farms. Accurate wind forecasts can increase the power dispatch by 10 percent by having a better grip on the wind's intermittent nature.We predict certain aspects like no of Turbines Generate Enegry,Wind Speed,Air Density,Different radius of the Turbines. To predict the optimum energy extractable from that particular location.
+Improvements in weather forecasting are also increasing the output from wind farms. Accurate wind forecasts can increase the power dispatch by 10 percent by having a better grip on the wind's intermittent nature.We predict certain aspects like no of Turbines Generate Enegry,Wind Speed,Air Density,Different radius of the Turbines. That can be helpful for the turbines accordingly to run as turbines are Intelligent controllers and also help the engineers easily how many turbine they to plant in that particular location as we provide the output for n number od turbines, that help engineers as well as it can collabarate with the turbines. 
 ### The Idea
 Our vision is to moderate this inexhaustible wellspring of energy and thus, save the earth and construct a sustainable future.
 We predict the accessibility of wind vitality assets and encourages the improvement in wind energy production. 
 <p  align="center"><img  src = "https://github.com/Apurva-tech/Aelouss/blob/master/templates/intro.gif"></p>
 <p  align="center">
 <mark>By this application we will predict a few qualities which are fundamental parts of bridling wind energy to its extreme</mark>
-<p  align="center">We predict certain aspects like no of Turbines Generate Enegry,Wind Speed,Air Density,Different radius of the Turbines. To predict the optimum energy extractable from that particular location. </p><br>
+<p  align="center">We predict certain aspects like no of Turbines Generate Enegry,Wind Speed,Air Density,Different radius of the Turbines. To predict the energy extractable from that particular location. </p><br>
 </p>
 
 ### The architecture 
