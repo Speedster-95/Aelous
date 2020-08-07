@@ -28,7 +28,7 @@ We predict the accessibility of wind vitality assets and encourages the improvem
 [![Watch the video](Aelous.jpg)](http://www.youtube.com/watch?v=FOnMwn25sGM "Presentation")
 
 
-### To visit the website  https://aelous-map.eu-gb.mybluemix.net/Land.html
+### To visit the website  https://aelous.eu-gb.mybluemix.net/Land.html
 
 
 ### The steps required to run it on local system
