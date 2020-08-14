@@ -57,7 +57,7 @@ We predict the accessibility of wind vitality assets and encourages the improvem
 <mark>Clone the github repository into the system</mark><br>
   <p>
     
-   ```git clone https://github.com/Speedster-95/Aelouss.git```<br>
+   ```git clone https://github.com/Speedster-95/Aelous```<br>
    
    Unzip the folder assets folder
     
